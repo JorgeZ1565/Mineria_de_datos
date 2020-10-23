@@ -5,4 +5,5 @@
 
 
 [Análisis_BD](https://github.com/JorgeZ1565/Mineria_de_datos/blob/master/AnalisisBD_1565813.pdf)
+
 [PythonBasico](https://github.com/JorgeZ1565/Mineria_de_datos/blob/master/PythonBasico_1565813.ipynb)
