@@ -7,3 +7,6 @@
 [Análisis_BD](https://github.com/JorgeZ1565/Mineria_de_datos/blob/master/AnalisisBD_1565813.pdf)
 
 [PythonBasico](https://github.com/JorgeZ1565/Mineria_de_datos/blob/master/PythonBasico_1565813.ipynb)
+
+
+[Avance1](https://github.com/christiangarza1505813/fcfm/blob/master/Avance1-Pia_Equipo3_Grupo3.pdf)
