@@ -11,4 +11,5 @@
 
 [Avance1](https://github.com/christiangarza1505813/fcfm/blob/master/Avance1-Pia_Equipo3_Grupo3.pdf)
 
-[Ejercicio phyton Minería de datos] (https://github.com/asielromero/Mineria_de_Datos_2020_Grupo03/blob/master/Ejercicios%20phyton%20Mineria%20de%20datos.ipynb)
+
+[EjercicioPython](https://github.com/asielromero/Mineria_de_Datos_2020_Grupo03/blob/master/Ejercicios%20phyton%20Mineria%20de%20datos.ipynb)
