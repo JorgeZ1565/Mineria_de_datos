@@ -13,3 +13,7 @@
 
 
 [Ejercicio_Python_Mineria_de_Datos](https://github.com/asielromero/Mineria_de_Datos_2020_Grupo03/blob/master/Ejercicios%20phyton%20Mineria%20de%20datos.ipynb)
+
+Fase III
+
+[Segundo_Avance_del_PIA](https://github.com/asielromero/Mineria_de_Datos_2020_Grupo03/blob/master/Avance%202.ipynb)
